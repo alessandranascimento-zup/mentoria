@@ -1,0 +1,6 @@
+from,to,cc,subject,date-time,content
+alice@empresa.com,bob@empresa.com,carol@empresa.com,Lançamento do Produto,2024-06-01 09:15:00,"Olá Bob, estamos animados com o lançamento do nosso novo produto digital!"
+bob@empresa.com,alice@empresa.com,,Re: Lançamento do Produto,2024-06-01 10:00:00,"Oi Alice, parabéns pelo lançamento! Como posso acessar a plataforma?"
+carol@empresa.com,bob@empresa.com,alice@empresa.com,Feedback sobre o Produto,2024-06-02 14:30:00,"Bob, testei o produto e achei a interface muito intuitiva."
+dave@empresa.com,carol@empresa.com,,Solicitação de Treinamento,2024-06-03 11:45:00,"Carol, gostaria de agendar um treinamento sobre o novo produto."
+eve@empresa.com,dave@empresa.com,bob@empresa.com;carol@empresa.com,Dúvidas sobre Integração,2024-06-04 16:20:00,"Dave, você pode me ajudar com a integração da API?"

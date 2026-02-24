@@ -1,0 +1,39 @@
+# VSCode
+.vscode/
+
+# JetBrains IDEs (PyCharm, IntelliJ, etc)
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.env
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.log
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Outros arquivos de IDEs comuns
+*.sublime-workspace
+*.sublime-project
+*.swp
