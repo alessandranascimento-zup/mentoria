@@ -26,5 +26,5 @@
 
 ## Ilustração
 
-![Problema](image%20(2).png)
+![Problema](ilustracao.png)
 
