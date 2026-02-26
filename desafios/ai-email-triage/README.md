@@ -56,7 +56,7 @@ python scripts/generate_report.py --run runs/run_001 --out reports/run_001_repor
 
 ---
 
-## Decisões de engenharia (o que o recrutador vai avaliar)
+## Decisões de engenharia (o que será avaliado)
 
 ### Determinismo (por design)
 1) **Regras primeiro (rule-based)**
