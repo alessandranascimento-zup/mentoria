@@ -1,0 +1,31 @@
+from,to,cc,subject,date_time,content
+cliente0@email.com,suporte@empresa.com,gestor@empresa.com,Parabéns pelo atendimento,2026-01-01T09:00:00,"Atendimento excelente, muito rápido e gentil. Parabéns!"
+cliente1@email.com,suporte@empresa.com,gestor@empresa.com,Como faço para emitir segunda via?,2026-01-01T09:15:00,Poderiam orientar o passo a passo para emitir segunda via do documento?
+cliente2@email.com,suporte@empresa.com,,Parabéns pelo atendimento,2026-01-01T09:30:00,"Atendimento excelente, muito rápido e gentil. Parabéns!"
+cliente3@email.com,suporte@empresa.com,,Parabéns pelo atendimento,2026-01-01T09:45:00,"Atendimento excelente, muito rápido e gentil. Parabéns!"
+cliente4@email.com,suporte@empresa.com,gestor@empresa.com,Aplicativo fora do ar,2026-01-01T10:00:00,O app está indisponível desde cedo. Preciso acessar e não consigo. Erro 500.
+cliente5@email.com,suporte@empresa.com,,Aplicativo fora do ar,2026-01-01T10:15:00,O app está indisponível desde cedo. Preciso acessar e não consigo. Erro 500.
+cliente6@email.com,suporte@empresa.com,gestor@empresa.com,Satisfeito com a experiência,2026-01-01T10:30:00,"Estou satisfeito, foi ótimo usar o produto. Recomendo."
+cliente7@email.com,suporte@empresa.com,,Produto incrível,2026-01-01T10:45:00,"O aplicativo está perfeito, experiência incrível. Nota 10!"
+cliente8@email.com,suporte@empresa.com,,Erro ao logar,2026-01-01T11:00:00,"Estou com falha ao entrar. Bug no login, aparece mensagem de erro."
+cliente9@email.com,suporte@empresa.com,gestor@empresa.com,Ajuda com redefinição de senha,2026-01-01T11:15:00,Não consigo redefinir minha senha. Poderiam me ajudar?
+cliente10@email.com,suporte@empresa.com,gestor@empresa.com,Solicito acesso ao sistema,2026-01-01T11:30:00,Preciso habilitar meu acesso e atualizar meus dados cadastrais.
+cliente11@email.com,suporte@empresa.com,,Quero cancelar e pedir reembolso,2026-01-01T11:45:00,Serviço não funciona e estou insatisfeito. Solicito cancelamento e reembolso.
+cliente12@email.com,suporte@empresa.com,,Produto incrível,2026-01-01T12:00:00,"O aplicativo está perfeito, experiência incrível. Nota 10!"
+cliente13@email.com,suporte@empresa.com,,Satisfeito com a experiência,2026-01-01T12:15:00,"Estou satisfeito, foi ótimo usar o produto. Recomendo."
+cliente14@email.com,suporte@empresa.com,,Solicito acesso ao sistema,2026-01-01T12:30:00,Preciso habilitar meu acesso e atualizar meus dados cadastrais.
+cliente15@email.com,suporte@empresa.com,,Produto incrível,2026-01-01T12:45:00,"O aplicativo está perfeito, experiência incrível. Nota 10!"
+cliente16@email.com,suporte@empresa.com,gestor@empresa.com,Parabéns pelo atendimento,2026-01-01T13:00:00,"Atendimento excelente, muito rápido e gentil. Parabéns!"
+cliente17@email.com,suporte@empresa.com,,Quero cancelar e pedir reembolso,2026-01-01T13:15:00,Serviço não funciona e estou insatisfeito. Solicito cancelamento e reembolso.
+cliente18@email.com,suporte@empresa.com,,Aplicativo fora do ar,2026-01-01T13:30:00,O app está indisponível desde cedo. Preciso acessar e não consigo. Erro 500.
+cliente19@email.com,suporte@empresa.com,gestor@empresa.com,Ajuda com redefinição de senha,2026-01-01T13:45:00,Não consigo redefinir minha senha. Poderiam me ajudar?
+cliente20@email.com,suporte@empresa.com,,Como faço para emitir segunda via?,2026-01-01T14:00:00,Poderiam orientar o passo a passo para emitir segunda via do documento?
+cliente21@email.com,suporte@empresa.com,,Parabéns pelo atendimento,2026-01-01T14:15:00,"Atendimento excelente, muito rápido e gentil. Parabéns!"
+cliente22@email.com,suporte@empresa.com,gestor@empresa.com,Erro ao logar,2026-01-01T14:30:00,"Estou com falha ao entrar. Bug no login, aparece mensagem de erro."
+cliente23@email.com,suporte@empresa.com,,Ajuda com redefinição de senha,2026-01-01T14:45:00,Não consigo redefinir minha senha. Poderiam me ajudar?
+cliente24@email.com,suporte@empresa.com,,Obrigado pelo suporte,2026-01-01T15:00:00,"Obrigado pela ajuda. Resolveram meu problema, muito bom!"
+cliente25@email.com,suporte@empresa.com,,Erro ao logar,2026-01-01T15:15:00,"Estou com falha ao entrar. Bug no login, aparece mensagem de erro."
+cliente26@email.com,suporte@empresa.com,gestor@empresa.com,Solicitação de alteração cadastral,2026-01-01T15:30:00,Gostaria de alterar meu e-mail e telefone no cadastro.
+cliente27@email.com,suporte@empresa.com,gestor@empresa.com,Quero cancelar e pedir reembolso,2026-01-01T15:45:00,Serviço não funciona e estou insatisfeito. Solicito cancelamento e reembolso.
+cliente28@email.com,suporte@empresa.com,,Solicitação de alteração cadastral,2026-01-01T16:00:00,Gostaria de alterar meu e-mail e telefone no cadastro.
+cliente29@email.com,suporte@empresa.com,gestor@empresa.com,Satisfeito com a experiência,2026-01-01T16:15:00,"Estou satisfeito, foi ótimo usar o produto. Recomendo."
