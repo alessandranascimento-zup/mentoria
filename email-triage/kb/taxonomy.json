@@ -1,0 +1,92 @@
+{
+  "categories": {
+    "RECLAMACAO": {
+      "description": "E-mails com queixas, insatisfação, problemas e incidentes.",
+      "keywords": [
+        "reclama",
+        "insatis",
+        "péssimo",
+        "horrível",
+        "não funciona",
+        "erro",
+        "bug",
+        "falha",
+        "indispon",
+        "instável",
+        "lento",
+        "travando",
+        "cancelar",
+        "reembolso",
+        "prejuízo",
+        "procon",
+        "processo",
+        "ameaça",
+        "denúncia"
+      ]
+    },
+    "SOLICITACAO": {
+      "description": "Pedidos de serviço, dúvidas, solicitações de suporte ou mudança.",
+      "keywords": [
+        "solicito",
+        "preciso",
+        "poderia",
+        "gostaria",
+        "como faço",
+        "orientação",
+        "suporte",
+        "ajuda",
+        "atualizar",
+        "alterar",
+        "cadastro",
+        "acesso",
+        "senha",
+        "habilitar",
+        "contratar",
+        "segunda via",
+        "documento",
+        "informação"
+      ]
+    },
+    "ELOGIO": {
+      "description": "Reconhecimentos, elogios, agradecimentos e feedback positivo.",
+      "keywords": [
+        "parabéns",
+        "obrigado",
+        "obrigada",
+        "excelente",
+        "ótimo",
+        "incrível",
+        "satisfeito",
+        "satisfeita",
+        "recomendo",
+        "elogio",
+        "atendimento foi",
+        "muito bom",
+        "nota 10"
+      ]
+    }
+  },
+  "routing": {
+    "areas_responsaveis": [
+      "SUPORTE_APLICATIVO",
+      "JURIDICO",
+      "OUVIDORIA",
+      "REGULATORIO"
+    ],
+    "criticidade": [
+      "INDISPONIBILIDADE",
+      "USABILIDADE",
+      "TECNICO"
+    ],
+    "elogio_tipo": [
+      "EXPERIENCIA",
+      "PRODUTO_VALORES",
+      "ATENDIMENTO"
+    ]
+  },
+  "rules": {
+    "min_confidence": 0.55,
+    "human_fallback_on_low_confidence": true,
+    "max_retries": 2
+  }
+}
